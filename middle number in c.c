@@ -20,5 +20,6 @@ int main()
             printf("Case %d: %d\n", i, c);
     }
 
+   
     return 0;
 }
